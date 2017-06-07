@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.ClassCastException: inputs.test016.A cannot be cast to inputs.test016.B
+	at inputs.test016.Test016.main(Test016.java:25)

@@ -1,0 +1,51 @@
+Class:
+    A
+    Package:
+        inputs.test004
+    Parent:
+        null
+    Fields:
+        Field:
+            fld
+            Type:
+                String
+                null
+            Modifiers:
+                Modifier: private
+    Constructors:
+        Constructor:
+            A
+            Modifiers:
+            Parameters:
+            Source:
+                A
+    Methods:
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    public
+                Modifier:
+                    static
+            Parameters:
+                Parameter:
+                    fld
+                    Type:
+                        String
+                        null
+            Source:
+                A
+        Method:
+            getFld
+            Return Type:
+                String
+                null
+            Modifiers:
+                Modifier:
+                    public
+            Parameters:
+            Source:
+                A

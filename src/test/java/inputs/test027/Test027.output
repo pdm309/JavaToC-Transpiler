@@ -1,0 +1,12 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 10
+	at inputs.test027.Test027.main(Test027.java:24)

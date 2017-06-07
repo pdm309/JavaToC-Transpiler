@@ -1,0 +1,36 @@
+Class
+  HeaderDeclaration
+    PackageName
+    ClassName
+    DataLayout
+      FieldDeclaration
+        Modifiers
+          // basically if it's static or not
+        FieldType
+        FieldName
+      ConstructorDeclaration
+        ClassName
+        Parameter
+          ParameterType
+      MethodDeclaration
+        Modifiers
+        ReturnType
+        MethodName
+        Parameter
+          ParameterType
+    VTable
+      MethodDeclaration
+        ReturnType
+        MethodName
+        SourceObject
+        Parameter
+          ParameterType
+  AncestorClasses
+      ParentClass
+          HeaderDeclaration
+          PackageName
+          ClassName
+          DataLayout
+          VTable
+        GrandParentClass
+            // Same as above, all the way to java.lang.Object

@@ -1,0 +1,54 @@
+Class:
+    A
+    Package:
+        inputs.test035
+    Parent:
+        null
+    Fields:
+    Constructors:
+        Constructor:
+            A
+            Modifiers:
+            Parameters:
+            Source:
+                A
+    Methods:
+        Method:
+            mByte
+            Return Type:
+                int32_t
+                null
+            Modifiers:
+            Parameters:
+                Parameter:
+                    b
+                    Type:
+                        byte
+                        null
+            Source:
+                A
+        Method:
+            mDouble
+            Return Type:
+                void
+                null
+            Modifiers:
+            Parameters:
+                Parameter:
+                    d
+                    Type:
+                        double
+                        null
+            Source:
+                A
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    static
+            Parameters:
+            Source:
+                A

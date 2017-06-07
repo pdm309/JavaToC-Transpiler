@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.NegativeArraySizeException
+	at inputs.test029.Test029.main(Test029.java:16)

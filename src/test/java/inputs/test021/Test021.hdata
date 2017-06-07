@@ -1,0 +1,33 @@
+Class:
+    A
+    Package:
+        inputs.test021
+    Parent:
+        null
+    Fields:
+        Field:
+            x
+            Type:
+                int32_t
+                null
+            Modifiers:
+                Modifier: static
+    Constructors:
+        Constructor:
+            A
+            Modifiers:
+            Parameters:
+            Source:
+                A
+    Methods:
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    static
+            Parameters:
+            Source:
+                A

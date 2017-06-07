@@ -1,0 +1,35 @@
+Class:
+    A
+    Package:
+        inputs.test009
+    Parent:
+        null
+    Fields:
+        Field:
+            self
+            Type:
+                A
+                null
+            Modifiers:
+                Modifier: public
+    Constructors:
+        Constructor:
+            A
+            Modifiers:
+            Parameters:
+            Source:
+                A
+    Methods:
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    public
+                Modifier:
+                    static
+            Parameters:
+            Source:
+                A

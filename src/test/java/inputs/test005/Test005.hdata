@@ -1,0 +1,74 @@
+Class:
+    A
+    Package:
+        inputs.test005
+    Parent:
+        null
+    Fields:
+    Constructors:
+        Constructor:
+            A
+            Modifiers:
+            Parameters:
+            Source:
+                A
+    Methods:
+        Method:
+            toString
+            Return Type:
+                String
+                null
+            Modifiers:
+                Modifier:
+                    public
+            Parameters:
+            Source:
+                A
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    static
+            Parameters:
+            Source:
+                A
+Class:
+    B
+    Package:
+        inputs.test005
+    Parent:
+        null
+    Fields:
+    Constructors:
+        Constructor:
+            B
+            Modifiers:
+            Parameters:
+            Source:
+                B
+    Methods:
+        Method:
+            toString
+            Return Type:
+                String
+                null
+            Modifiers:
+                Modifier:
+                    public
+            Parameters:
+            Source:
+                B
+        Method:
+            __init
+            Return Type:
+                void
+                null
+            Modifiers:
+                Modifier:
+                    static
+            Parameters:
+            Source:
+                B

@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.ArrayStoreException: inputs.test026.A
+	at inputs.test026.Test026.main(Test026.java:29)

@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.NullPointerException
+	at inputs.test014.A.printOther(Test014.java:7)
+	at inputs.test014.Test014.main(Test014.java:15)

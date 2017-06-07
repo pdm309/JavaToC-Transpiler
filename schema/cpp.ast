@@ -1,0 +1,87 @@
+Class
+    "class namme" // String!
+    Package
+        "package name" // String!
+    DataLayout
+        FieldDeclaration
+            "field name" // String!
+            Type
+                "field type" // String!
+                "field type dimension" // String OR null!
+            Modifiers
+                "field modifier 1" // String!
+                "field modifier 2" // String!
+        ConstructorDeclaration
+            "constructor name"
+            Modifiers
+                "constructor modifier 1" // String!
+                "constructor modifier 2" // String!
+            Parameters
+                Parameter
+                    "constructor parameter name"
+                    Type
+                        "constructor parameter type" // String!
+                        "constructor parameter type dimension" // String OR null!
+        MethodDeclaration
+            "method name" // String!
+            Return Type
+                "method return type" // String!
+                "method return type dimension" // String OR null!
+            Modifiers
+                "method modifier 1" // String!
+                "method modifier 2" // String!
+            Parameters
+                Parameter
+                    "method parameter name" // String!
+                    Type
+                        "method parameter type" // String!
+                        "method parameter type dimension" // String OR null!
+            Source
+                "method source" // String!
+    VTable
+        "vtable name" // String!
+        MethodDeclaration
+            "method name" // String!
+            Return Type
+                "method return type" // String!
+                "method return type dimension" // String OR null!
+            Parameters
+                Parameter
+                    "method parameter type" // String!
+                    "method parameter type dimension" // String OR null!
+            Source
+                "method source name" // String!
+    Parent
+        "class parent name" // String!
+    Implementation
+        ConstructorDeclaration
+            "constructor name"
+            Modifiers
+                "constructor modifier 1" // String!
+                "constructor modifier 2" // String!
+            Parameters
+                Parameter
+                    "constructor parameter name"
+                    Type
+                        "constructor parameter type" // String!
+                        "constructor parameter type dimension" // String OR null!
+            Block
+                // Converted Java block
+        MethodDeclaration
+            "method name" // String!
+            Return Type
+                "method return type" // String!
+                "method return type dimension" // String OR null!
+            Modifiers
+                "method modifier 1" // String!
+                "method modifier 2" // String!
+            Parameters
+                Parameter
+                    "method parameter name" // String!
+                    Type
+                        "method parameter type" // String!
+                        "method parameter type dimension" // String OR null!
+            Source
+                "method source" // String!
+            Block
+                // Converted Java block

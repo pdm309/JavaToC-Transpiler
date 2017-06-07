@@ -1,0 +1,3 @@
+B.m(B)
+Exception in thread "main" java.lang.NullPointerException
+	at inputs.test049.Test049.main(Test049.java:21)
